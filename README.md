@@ -1,3 +1,3 @@
-# react-todo-jzp71t
+# react-todo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-todo-jzp71t)
+simple example of how to do a whole in react
