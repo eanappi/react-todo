@@ -22,6 +22,7 @@ export function App() {
   }, [todos]);
 
   const taskTodoRef = useRef();
+  console.log('lolll')
 
   const handleAddTodo = () => {
     const task = taskTodoRef.current.value;
